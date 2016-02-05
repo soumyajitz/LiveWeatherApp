@@ -1,5 +1,5 @@
 <html>
 
-<img src = "pic1.png" height = "50px" width = "20px" />
+<img src = "pic1.png" height = "300px" width = "100px" />
 
 </html>
