@@ -1,5 +1,5 @@
 <html>
 
-<img src = "" />
+<img src = "pic1.png" />
 
 </html>
